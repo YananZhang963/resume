@@ -6,3 +6,7 @@
 - [Columbia University] (https://www.columbia.edu/)
 
 ## Research Insterests
+- Climate Finance
+- Quantitative Finance
+- Critical Minerals
+- Renewable Energy
