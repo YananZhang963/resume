@@ -4,3 +4,5 @@
 ## Education
 - [University of Toronto] (https://www.utoronto.ca/)
 - [Columbia University] (https://www.columbia.edu/)
+
+## Research Insterests
